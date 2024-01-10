@@ -1,4 +1,19 @@
-# Hi there! 👋 I'm LovelyJerry, a Passionate Full-Stack Developer with 9 years of experience.
+# Hi there! 👋
+
+## 🚀 About Me
+
+- Seasoned full-stack developer
+- Always love challenges and possess excellent problem-solving skills
+- Good teamwork skills and like helping others
+- Keep up with the latest technologies and eager to learn more new technical stacks
+
+## 🌟 Featured Projects
+
+### [Project Name 1](link-to-project-1)
+Description of the project goes here. Highlight key features, technologies used, and any notable achievements.
+
+### [Project Name 2](link-to-project-2)
+Description of the project goes here. Highlight key features, technologies used, and any notable achievements.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovelyjerry312&label=Profile%20views&color=0e75b6&style=flat" alt="lovelyjerry312" /> </p>
 
@@ -25,23 +40,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovelyjerry312&" alt="lovelyjerry312" /></p>
 
 ---
-
-# Welcome to Jerry's Repository! 👋
-
-## 🚀 About Me
-
-- Seasoned full-stack developer
-- Always love challenges and possess excellent problem-solving skills
-- Good teamwork skills and like helping others
-- Keep up with the latest technologies and eager to learn more new technical stacks
-
-## 🌟 Featured Projects
-
-### [Project Name 1](link-to-project-1)
-Description of the project goes here. Highlight key features, technologies used, and any notable achievements.
-
-### [Project Name 2](link-to-project-2)
-Description of the project goes here. Highlight key features, technologies used, and any notable achievements.
 
 ## 📚 Blog & Articles
 
