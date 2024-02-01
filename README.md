@@ -44,10 +44,9 @@ Description of the project goes here. Highlight key features, technologies used,
 
 ## 📚 Blog & Articles
 
-I occasionally share my thoughts, experiences, and insights on my [blog](link-to-blog). Feel free to check out some of my articles:
+I occasionally share my thoughts, experiences, and insights on my [blog](https://app.daily.dev). Feel free to check out some of my articles:
 
-- [Article 1](link-to-article-1): Brief description of the article.
-- [Article 2](link-to-article-2): Brief description of the article.
+<a href="https://app.daily.dev/lovelyjerry"><img src="https://api.daily.dev/devcards/99234a574bd348b3ab534586dfa3ab27.png?r=7es" width="400" alt="Lovely Jerry's Dev Card"/></a>
 
 ## 📫 Let's Connect
 
